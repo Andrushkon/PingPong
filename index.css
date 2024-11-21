@@ -40,16 +40,16 @@ color: white;
 float: left;
 }
 #sactivities{
-    background-image: url("images/tennis.jpg");
+    background-image: url("tennis.jpg");
 }
 #sschedule{
-    background-image: url("images/calendar.jpg");
+    background-image: url("calendar.jpg");
 }
 #sprices{
-    background-image: url("images/prices.jpg");
+    background-image: url("prices.jpg");
 }
 #saboutus{
-    background-image: url("images/aboutus.jpg");
+    background-image: url("aboutus.jpg");
 }
 @keyframes Boxhover{
 from{box-shadow: none;scale: 1 1;}
@@ -124,14 +124,14 @@ li{
 scale: 1.1 1.1;
 }
 #pingpong{
-background-image: url("images/ping-pong.jpg");
+background-image: url("ping-pong.jpg");
 }
 #tennis{
-background-image: url("images/tennis.webp");
+background-image: url("tennis.webp");
 }
 #paddle{
-background-image: url("images/paddle.jpg");
+background-image: url("paddle.jpg");
 }
 #badminton{
-background-image: url("images/badminton.jpg");
+background-image: url("badminton.jpg");
 }
